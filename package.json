@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-fall/a04-akarki123/issues"
   },
-  "homepage": "https://github.com/comp426-2022-fall/a04-akarki123#readme"
+  "homepage": "https://github.com/comp426-2022-fall/a04-akarki123#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "minimist": "^1.2.7"
+  }
 }
